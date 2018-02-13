@@ -5,29 +5,36 @@ I haven't seen any solutions for manual insertion into a binary tree (Check out 
 ****************************************************************************************************************************************
 Implement DFS (Depth-First Search) for the binary tree found below
 print out the sequence of your DFS result...
-*/
-
-
-#include<iostream>
-#include<cstdlib>
-#include<array>
-
-#include "btree.h" //header file, found in 5_depthfirstsearch folder
-
-#include <iostream>
-using namespace std;
-
-int main(){
 	
-	/* Creating binary tree shown below
-	          2
+	 Creating binary tree shown below
+	    2
           /   \
          7     5
        /  \       \
       2    6       9
           /  \     /
          5   11   4
-	*/
+	 
+	 #include<iostream> #include<cstdlib>	
+	 #include<array>
+	 #include "btree.h"
+	 
+	 #include<iostream>
+	 
+	 using namespace std;
+	 
+	 int main(){
+	 
+	 //Just so its easy to see, heres the same tree again...
+	    2
+          /   \
+         7     5
+       /  \       \
+      2    6       9
+          /  \     /
+         5   11   4
+	
+	
 	btree *tree = new btree();
 	
 	tree->root = new node();
