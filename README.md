@@ -4,14 +4,6 @@ I haven't seen any solutions for manual insertion into a binary tree (Check out 
 
 ****************************************************************************************************************************************
 Implement DFS (Depth-First Search) for the binary tree found below
-            2
-          /   \
-         7     5
-       /  \       \
-      2    6        9
-          /  \     /
-         5   11   4
-		 
 print out the sequence of your DFS result...
 */
 
