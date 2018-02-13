@@ -1,2 +1,2 @@
 # 2017_ProgrammingChallenge
-I participated in an extra-curricular semester-long programming challenge in Fall 2017 (organized by Dr. Yi-Chung Chen - SUNY New Paltz). I completed 9 assignments, finishing 4 more than the last competitor. 
+I haven't seen any solutions for manual insertion into a binary tree (Check out Depth First Search - main program). Knapsack and Salesman were concept-based so you'll find better explanations for those solutions elsewhere. I might try to add an explanation if I get the chance. Cheers!
