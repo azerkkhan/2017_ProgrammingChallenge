@@ -7,7 +7,7 @@ Implement DFS (Depth-First Search) for the binary tree found below
 print out the sequence of your DFS result...
 	
 	 Creating binary tree shown below
-	 // 2
+	    2
           /   \
          7     5
        /  \       \
